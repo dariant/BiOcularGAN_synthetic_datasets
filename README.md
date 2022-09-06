@@ -13,13 +13,12 @@ To use the synthetic datasets, please fill out and sign the [form](TODO) and sen
 If you use our datasets in your research, please cite our papers (**to be updated, currently in the publishing process in IJCB**):
 
 ```
-@article{tomasevic2022bioculargan,
+@inproceedings{tomasevic2022bioculargan,
   title={{BiOcularGAN: Bimodal Synthesis and Annotation of Ocular Images}},
   author={Toma{\v{s}}evi{\'c}, Darian and Peer, Peter and {\v{S}}truc, Vitomir},
-  journal={arXiv preprint arXiv:2205.01536},
+  booktitle={International Joint Conference on Biometrics (IJCB)},
   year={2022},
-  doi= {10.48550/arxiv.2205.01536},
-  publisher = {arXiv},
+  organization={IEEE}
 }
 ```
 
