@@ -8,7 +8,7 @@ Darian Tomašević, Peter Peer, Vitomir Štruc<br>
 Published as part of the International Joint Conference on Biometrics (IJCB) 2022. 
 
 ## Using the datasets
-To use the synthetic datasets, please fill out and sign the [form](BiOcularGAN Licence Agreement.docx) and send it to Darian Tomašević at darian.tomasevic@fri.uni-lj.si.
+To use the synthetic datasets, please fill out and sign the [form](https://github.com/dariant/BiOcularGAN_synthetic_datasets/blob/main/BiOcularGAN%20Licence%20Agreement.docx) and send it to Darian Tomašević at darian.tomasevic@fri.uni-lj.si.
 
 If you use our datasets in your research, please cite our papers (**to be updated, currently in the publishing process in IJCB**):
 
